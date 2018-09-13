@@ -1,0 +1,18 @@
+Started by user [8mha:////4HwSjEySRNf7pFKbLyIl+zjpTEbG/JI+qrOhSiAy2RadAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyBEgZe/dLi1CL94pLEvJLUIgBO5a5bwgAAAA==[0mStanter da Silva
+Building in workspace /var/jenkins_home/workspace/build-ios
+ > git rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/gabe351/ShowMovies.git # timeout=10
+Fetching upstream changes from https://github.com/gabe351/ShowMovies.git
+ > git --version # timeout=10
+ > git fetch --tags --progress https://github.com/gabe351/ShowMovies.git +refs/heads/*:refs/remotes/origin/*
+Seen branch in repository origin/develop
+Seen branch in repository origin/master
+Seen 2 remote branches
+ > git show-ref --tags -d # timeout=10
+Checking out Revision 65fdcec381d89d3b15aa0516554dee8bc0442c0f (origin/develop)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 65fdcec381d89d3b15aa0516554dee8bc0442c0f
+Commit message: "develop Add fastlane files"
+ > git rev-list --no-walk fb390cc88cb3b155a5c10b45839a26c54ed250e0 # timeout=10
+Finished: SUCCESS

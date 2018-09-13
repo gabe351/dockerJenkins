@@ -8,6 +8,7 @@ RUN apt-get update && apt-get install -y rubygems \
 					build-essential \
 					g++
 RUN gem install fastlane -NV
+RUN gem install ambient-xcode
 
 USER jenkins
 

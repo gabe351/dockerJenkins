@@ -1,0 +1,28 @@
+commit 3c905b61b841847177955a7cd1ed526a9350644d
+tree 357b1e4fab7e08e75b3e94f5e239f07474fb4ffd
+parent a21ce920cf85f239e9b7068c7892fb6410439c30
+author Gaberu <gabrielrosadn@gmail.com> 2018-09-13 11:05:39 -0300
+committer Gaberu <gabrielrosadn@gmail.com> 2018-09-13 11:05:39 -0300
+
+    develop Update fast file and podfile lock
+
+    -
+
+    Signed-off-by: Gaberu <gabrielrosadn@gmail.com>
+
+
+:100644 100644 63978961fe136df027c192b93b0e78f50633a45a 4e1d6405016b5bc7d80227e24124f089694b3c3e M	Podfile.lock
+:100644 100644 4be610c97449856bad431ba8739733fc12d44b91 b1879dc8e5c5d5a5343cacc71e8f46ab018dac1c M	fastlane/Fastfile
+:000000 100644 0000000000000000000000000000000000000000 3fb29b26a5bdbbb49db91a6b60033129c1f83638 A	fastlane/README.md
+commit a21ce920cf85f239e9b7068c7892fb6410439c30
+tree 40da415a14ec8ce6994462651f5e914956193ade
+parent 65fdcec381d89d3b15aa0516554dee8bc0442c0f
+author Gaberu <gabrielrosadn@gmail.com> 2018-09-13 10:52:50 -0300
+committer Gaberu <gabrielrosadn@gmail.com> 2018-09-13 10:52:50 -0300
+
+    update fast file to build project
+
+    Signed-off-by: Gaberu <gabrielrosadn@gmail.com>
+
+
+:100644 100644 0a64948307a5e1e793b37b309c3939bba877e9ea 4be610c97449856bad431ba8739733fc12d44b91 M	fastlane/Fastfile

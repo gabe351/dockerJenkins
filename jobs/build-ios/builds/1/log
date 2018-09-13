@@ -1,0 +1,21 @@
+Started by user [8mha:////4HwSjEySRNf7pFKbLyIl+zjpTEbG/JI+qrOhSiAy2RadAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyBEgZe/dLi1CL94pLEvJLUIgBO5a5bwgAAAA==[0mStanter da Silva
+Building in workspace /var/jenkins_home/workspace/build-ios
+Cloning the remote Git repository
+Cloning repository https://github.com/gabe351/ShowMovies.git
+ > git init /var/jenkins_home/workspace/build-ios # timeout=10
+Fetching upstream changes from https://github.com/gabe351/ShowMovies.git
+ > git --version # timeout=10
+ > git fetch --tags --progress https://github.com/gabe351/ShowMovies.git +refs/heads/*:refs/remotes/origin/*
+ > git config remote.origin.url https://github.com/gabe351/ShowMovies.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/gabe351/ShowMovies.git # timeout=10
+Fetching upstream changes from https://github.com/gabe351/ShowMovies.git
+ > git fetch --tags --progress https://github.com/gabe351/ShowMovies.git +refs/heads/*:refs/remotes/origin/*
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+Checking out Revision a5c4bdcd019c720d9d30b225ba162ad9deefc412 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f a5c4bdcd019c720d9d30b225ba162ad9deefc412
+Commit message: "Merge pull request #1 from gabe351/update-git-ignore"
+First time build. Skipping changelog.
+Finished: SUCCESS
